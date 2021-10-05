@@ -1,8 +1,8 @@
 language = "cpp"
-run = "g++ question1/for.cpp; ./a.out"
-# run = "g++ question1/while.cpp; ./a.out"
-# run = "g++ question2/prime.cpp; ./a.out"
-# run = "g++ question3/pyramid.cpp; ./a.out"
+run = "g++ question1/for.cpp && ./a.out"
+# run = "g++ question1/while.cpp && ./a.out"
+# run = "g++ question2/prime.cpp && ./a.out"
+# run = "g++ question3/pyramid.cpp && ./a.out"
 
 # # here is equivalent to // in .cpp files
 # feel free to uncomment a line above
